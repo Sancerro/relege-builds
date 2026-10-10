@@ -3,8 +3,8 @@
     "app@relege.app": {
       "updates": [
         {
-          "version": "0.1.1",
-          "update_link": "https://github.com/Sancerro/relege-builds/releases/download/v0.1.1/relege-firefox.xpi"
+          "version": "0.2.0.3419",
+          "update_link": "https://github.com/Sancerro/relege-builds/releases/download/v0.2.0.3419/relege-firefox.xpi"
         }
       ]
     }
