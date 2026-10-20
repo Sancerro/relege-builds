@@ -3,8 +3,8 @@
     "app@relege.app": {
       "updates": [
         {
-          "version": "0.2.0.3579",
-          "update_link": "https://relege-firefox-stable.pages.dev/relege-stable-0.2.0.3579.xpi"
+          "version": "0.2.0.3629",
+          "update_link": "https://relege-firefox-stable.pages.dev/relege-stable-0.2.0.3629.xpi"
         }
       ]
     }
